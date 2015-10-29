@@ -36,10 +36,12 @@ MATCH (ex:Exploit)-->(vu:Vulnerability)-->(so:Software) RETURN ex,vu,so
 //// Motive to payload to exploit to vuln
 MATCH (mo:Motive {name:"Financial Extortion"})-->(pa:Payload)<--(ex:Exploit)-->(vu:Vulnerability)-->(so:Software) RETURN mo,pa,ex,vu,so
 
-MATCH (mo:Motive {name:"Financial Extortion"})-->(pa:Payload)<--(ex:Exploit)-->(vu:Vulnerability)-->(so:Software) WHERE vu.date_disclosed =~ "2015-" RETURN mo,pa,ex,vu,so
+//Attempt some temporal analysis
+MATCH (mo:Motive {name:"Financial Extortion"})-->(pa:Payload)<--(ex:Exploit)-->(vu:Vulnerability)-->(so:Software) WHERE vu.date_disclosed =~ "2015-.*" RETURN mo,pa,ex,vu,so
 
 MATCH (mo:Motive {name:"Financial Extortion"})-->(pa:Payload)<--(ex:Exploit)-->(vu:Vulnerability)-->(so:Software {name:"Flash Player"}) RETURN mo,pa,ex,vu,so
 
 MATCH (sa:Sample)-[*0..2]->(unk) RETURN unk
 
+//Show me all of the things!
 MATCH n RETURN n;
