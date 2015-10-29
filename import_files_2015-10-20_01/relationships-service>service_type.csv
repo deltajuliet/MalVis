@@ -1,0 +1,10 @@
+serviceNAME,serviceTypeNAME
+SMTP,Email
+SMTPS,Email
+IMAP,Email
+IMAP3,Email
+IMAPS,Email
+POP3,Email
+POPS,Email
+HTTP,Web
+HTTPS,Web

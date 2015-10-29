@@ -1,0 +1,329 @@
+name,report_date,url
+"""Unpaid invoice notification"" spam leads to Angler Exploit Kit",2014-09-16,http://blog.dynamoo.com/2014/09/unpaid-invoice-notification-spam-leads.html
+2013-11-23 - CAPHAW DRIVEBY LEADS TO STYX EPLOIT,2013-11-23,http://malware-traffic-analysis.net/2013/11/23/index.html
+2013-11-29 - FIESTA EXPLOIT KIT,2013-11-29,http://malware-traffic-analysis.net/2013/11/29/index.html
+2013-12-27 - STYX EXPLOIT DELIVERS SIMDA MALWARE,2013-12-27,http://malware-traffic-analysis.net/2013/12/27/index.html
+2014-01-01 - FIESTA EK DELIVERS CVE-2013-2551,2014-01-01,http://malware-traffic-analysis.net/2014/01/01/index.html
+2014-01-09 - DOTKACHEF EXPLOIT KIT,2014-01-09,http://malware-traffic-analysis.net/2014/01/09/index.html
+2014-01-14 - MAGNITUDE EK,2014-01-14,http://malware-traffic-analysis.net/2014/01/14/index.html
+2014-01-24 - NUCLEAR PACK EXPLOIT KIT,2014-01-24,http://malware-traffic-analysis.net/2014/01/24/index.html
+2014-01-26 - SWEET ORANGE EK DELIVERS MSIE EXPLOIT,2014-01-26,http://malware-traffic-analysis.net/2014/01/26/index.html
+2014-02-01 - FIESTA EK DELIVERS CVE-2013-0074 (SILVERLIGHT EXPLOIT),2014-02-01,http://malware-traffic-analysis.net/2014/02/01/index.html
+2014-02-03 PART 1 OF 4 - GOON EK - JAVA EXPLOIT DELIVERS ASPROX-STYLE MALWARE,2014-02-03,http://malware-traffic-analysis.net/2014/02/03/part-01.html
+2014-02-23 - NEUTRINO EK AND SILVERLIGHT EXPLOIT,2014-02-23,http://malware-traffic-analysis.net/2014/02/23/index.html
+2014-02-28 - FIESTA EK - CVE-2013-2465 JAVA EXPLOIT,2014-02-28,http://malware-traffic-analysis.net/2014/02/28/index.html
+2014-03-04 - HELLO EXPLOIT KIT,2014-03-04,http://malware-traffic-analysis.net/2014/03/04/index.html
+2014-03-17 - ZUPONCIC EK,2014-03-17,http://malware-traffic-analysis.net/2014/03/17/index.html
+2014-03-19 - GOON/INFINITY EK SENDS FLASH FOR IE 10 EXPLOIT CVE-2014-0322,2014-03-19,http://malware-traffic-analysis.net/2014/03/19/index.html
+2014-03-23 - GOON/INFINITY EK USING FLASH FOR IE 10 EXPLOIT CVE-2014-0322,2014-03-24,http://malware-traffic-analysis.net/2014/03/24/index03.html
+"2014-03-23 - OLD EXPLOIT, NEW HASH FOR THE MALWARE PAYLOAD",2014-03-24,http://malware-traffic-analysis.net/2014/03/24/index01.html
+2014-03-25 - MAGNITUDE EK USES IE EXPLOIT CVE-2013-2551,2014-03-25,http://malware-traffic-analysis.net/2014/03/25/index.html
+2014-03-29 - FLASHPACK EK USES CVE-2014-0322 AND JAVA EXPLOIT,2014-03-29,http://malware-traffic-analysis.net/2014/03/29/index.html
+2014-04-07 - NUCLEAR EK FROM 142.4.194.72 - DYSTERIEW.RU,2014-04-07,http://malware-traffic-analysis.net/2014/04/07/index.html
+2014-04-11 - FIESTA EK FROM 64.202.123.50 - 11IMAW1.DIMATUR.PT - FLASH/SILVERLIGHT/JAVA EXPLOITS,2014-04-11,http://malware-traffic-analysis.net/2014/04/11/index.html
+2014-04-15 - FUN WITH GOON/INFINITY EK,2014-04-15,http://malware-traffic-analysis.net/2014/04/15/index.html
+2014-04-20 - SWEET ORANGE EK FROM 195.16.88.159 PORT 9290 - FLASH AND JAVA EXPLOITS,2014-04-20,http://malware-traffic-analysis.net/2014/04/20/index.html
+2014-05-19 - FLASHPACK EK FROM 95.154.246.90 - LEY9NBU9C4C5R3OIE3819IT.NS1.BAYANDOVMECI.COM,2014-05-19,http://malware-traffic-analysis.net/2014/05/19/index.html
+2014-06-06 - CVE-2014-0515 EXPLOIT FROM FLASHPACK EK - 176.9.117.170 - SPCIOLV24HKA0E790VWIZGM.ADDIRECTORY.ORG,2014-06-06,http://malware-traffic-analysis.net/2014/06/06/index.html
+2014-06-10 - FLASHPACK EK FROM 192.71.151.14 - 3JF9S456U0RQV91RNO5PMFM.APTEKA-EREKCJA.PL,2014-06-10,http://malware-traffic-analysis.net/2014/06/10/index.html
+2014-06-12 - CVE-2014-0515 EXPLOIT FROM SWEET ORANGE EK - 82.118.17.172 PORT 16122 - IMG.BLUEPRINT-LEGAL.COM:16122,2014-06-12,http://malware-traffic-analysis.net/2014/06/12/index.html
+2014-06-19 - NUCLEAR EK FROM 5.135.28.118 - 2624633428-6.DISBARMENTSCORE.CO7.US,2014-06-19,http://malware-traffic-analysis.net/2014/06/19/index.html
+2014-06-25 - NUCLEAR EK FROM 185.14.31.37 - 4607C15APBMYK.WEALEH.UNI.ME - 2453099568-6.WEALEH.UNI.ME,2014-06-25,http://malware-traffic-analysis.net/2014/06/25/index.html
+2014-07-24 - SWEET ORANGE EK FROM 94.185.82.194 port 16122 - CDN.ABISTRA.CO - CDN.GEORGICAPARTNERS.COM,2014-07-24,http://malware-traffic-analysis.net/2014/07/24/index.html
+2014-07-26 - RIG EK FROM 194.58.101.51 - WELCOME.SHIRAZTSHIRTS.COM,2014-07-26,http://malware-traffic-analysis.net/2014/07/26/index.html
+2014-08-22 - UNKNOWN EXPLOIT KIT FROM 76.74.157.161 - WWW.PIZZANETP.COM,2014-08-22,http://www.malware-traffic-analysis.net/2014/08/22/index2.html
+2014-09-01 - RIG EK FROM 5.231.72.115 - NUAYSUQ.PLANEIMPRESSIONS.COM,2014-09-01,http://malware-traffic-analysis.net/2014/09/01/index2.html
+2015-01-02 - FAKE TARGET PHISHING EMAILS FROM THE ASPROX BOTNET,2015-01-02,http://malware-traffic-analysis.net/2015/01/02/index.html
+2015-01-03 - KAIXIN EK FROM 119.147.137.128 - AS2.22WDASDA.CC,2015-01-03,http://malware-traffic-analysis.net/2015/01/03/index.html
+2015-01-07 - RECENT DRIDEX PHISHING CAMPAIGN,2015-01-07,http://malware-traffic-analysis.net/2015/01/07/index.html
+2015-01-13 - DYRE PHISHING RUN - SUBJECT: YOUR TAX RETURN WAS INCORRECTLY FILLED OUT,2015-01-13,http://malware-traffic-analysis.net/2015/01/13/index.html
+2015-01-21 - UPATRE/DYRE PHISHING RUN - SUBJECT: EMPLOYEE DOCUMENTS - INTERNAL USE,2015-01-21,http://malware-traffic-analysis.net/2015/01/21/index.html
+2015-01-23 - NUCLEAR EK PUSHES VAWTRAK/NEVERQUEST,2015-01-23,http://malware-traffic-analysis.net/2015/01/23/index2.html
+2015-01-26 - DRIDEX MALSPAM WAVE - SUBJECT: BERENDSEN UK LTD INVOICE 60020918 117,2015-01-26,http://malware-traffic-analysis.net/2015/01/26/index2.html
+2015-01-27 - UPATRE/DYRE MALSPAM WAVE - SUBJECT: VOICE MESSAGE,2015-01-27,http://malware-traffic-analysis.net/2015/01/27/index.html
+2015-01-29 - NUCLEAR EK FROM 178.62.149.46 - CULTUREMERGE.GA - VAWTRAK PAYLOAD,2015-01-29,http://malware-traffic-analysis.net/2015/01/29/index.html
+2015-01-30 - ANGLER EK FROM 178.32.131.248 - 6JD5C9.CKK.CREACIONESLITERARIAS-KIRK.COM,2015-01-30,http://malware-traffic-analysis.net/2015/01/30/index.html
+2015-01-31 KAIXIN EK FROM 103.251.38.20:802 - EK PAYLOAD FROM 210.109.101.13 - WWW.MYRSVP.CO.KR,2015-01-31,http://malware-traffic-analysis.net/2015/01/31/index.html
+2015-02-01 - NUCLEAR EK FROM 178.62.250.102 - DISCREETTARGET.CF,2015-02-01,http://malware-traffic-analysis.net/2015/02/01/index.html
+2015-02-02 - MALSPAM RUN PUSHES CHANITOR - SUBJECT: LOGMEIN PROMO CODE - GET 50% OFF YOUR NEXT PURCHASE,2015-02-02,http://malware-traffic-analysis.net/2015/02/02/index.html
+2015-02-04 - NUCLEAR EK FROM 5.9.120.123 - ZXC.MIVYCEM.COM,2015-02-04,http://malware-traffic-analysis.net/2015/02/04/index.html
+"2015-02-05 - BIZCN GATE ACTOR CHANGES IP ADDRESS, DOMAIN NAMES, AND URL PATTERN FOR ITS GATE",2015-02-05,http://malware-traffic-analysis.net/2015/02/05/index.html
+2015-02-06 - RIG EK FROM 46.182.30.163 PUSHING KRONOS,2015-02-06,http://malware-traffic-analysis.net/2015/02/06/index.html
+2015-02-09 - CHANITOR/VAWTRAK MALSPAM - SUBJECT: USPS DELIVERY NOTIFICATION,2015-02-09,http://malware-traffic-analysis.net/2015/02/09/index.html
+2015-02-09 - SWEET ORANGE EK FROM 91.224.141.64 - H.USEDITEMS.CA:8085 - K.VIDIHUT.COM:8085,2015-02-09,http://malware-traffic-analysis.net/2015/02/09/index2.html
+2015-02-10 - ANGLER EK FROM 151.80.94.250,2015-02-10,http://malware-traffic-analysis.net/2015/02/10/index.html
+2015-02-11 - WINDIGO GROUP NUCLEAR EK,2015-02-11,http://malware-traffic-analysis.net/2015/02/11/index.html
+2015-02-13 - MAGNITUDE EK FROM 46.166.182.101,2015-02-13,http://malware-traffic-analysis.net/2015/02/13/index.html
+2015-02-16 - CHANITOR/VAWTRAK MALSPAM - SUBJECT: E-TICKET FROM AMERICAN AIRLINES,2015-02-16,http://malware-traffic-analysis.net/2015/02/16/index.html
+2015-02-23 - SWEET ORANGE EK FROM 95.183.8.177 - H.ROCKYHILLREALTOR.COM:8085,2015-02-23,http://malware-traffic-analysis.net/2015/02/23/index.html
+2015-03-01 - MAGNITUDE EK - 188.138.68.68 - EFD6D9.02.3F.9874379.73336DA.A6800E.7B.XRDIP554S7QW.MATTERHANDLES.IN,2015-03-01,http://malware-traffic-analysis.net/2015/03/01/index.html
+2015-03-16 - EXAMPLES OF NUCLEAR EK PUSHING KELIHOS,2015-03-16,http://malware-traffic-analysis.net/2015/03/16/index.html
+2015-03-17 - FIESTA EK FROM 217.172.170.6 - IUELOXP.SERVEPICS.COM,2015-03-17,http://malware-traffic-analysis.net/2015/03/17/index.html
+2015-03-18 - UPATRE/DYRE MALSPAM - SUBJECT: FW: CUSTOMER ACCOUNT DOCS,2015-03-18,http://malware-traffic-analysis.net/2015/03/18/index.html
+2015-03-24 - MALSPAM GENERATES CHANITOR/VAWTRAK,2015-03-24,http://malware-traffic-analysis.net/2015/03/24/index2.html
+2015-03-25 - ANGLER EK PUSHES RANSOMWARE,2015-03-25,http://malware-traffic-analysis.net/2015/03/25/index.html
+2015-03-26 - FIESTA EK FROM 217.172.170.17 - MCGHMENEUC.SERVEPICS.COM,2015-03-26,http://malware-traffic-analysis.net/2015/03/26/index.html
+2015-03-27 - ANGLER EK AND MAGNITUDE EK,2015-03-27,http://malware-traffic-analysis.net/2015/03/27/index.html
+2015-03-30 - FIESTA EK FROM 205.234.186.113 PUSHES SIMDA MALWARE,2015-03-30,http://malware-traffic-analysis.net/2015/03/30/index.html
+2015-04-01 - ANGLER EK FROM 209.126.113.76,2015-04-01,http://malware-traffic-analysis.net/2015/04/01/index.html
+2015-04-03 - NUCLEAR EK DROPS TESLACRYPT MALWARE,2015-04-03,http://malware-traffic-analysis.net/2015/04/03/index.html
+2015-04-06 - WHAT'S NEUTRINO EK BEEN UP TO LATELY?,2015-04-06,http://malware-traffic-analysis.net/2015/04/06/index.html
+2015-04-09 - NUCLEAR EK DELIVERS TROLDESH RANSOMWARE,2015-04-09,http://malware-traffic-analysis.net/2015/04/09/index.html
+2015-04-15 - DRIDEX MALSPAM ABOUT FAILED WIRE TRANSFERS,2015-04-15,http://malware-traffic-analysis.net/2015/04/15/index.html
+2015-04-25 - ANGLER EK FOLLOWED BY MAGNITUDE EK DURING POST-INFECTION,2015-04-25,http://malware-traffic-analysis.net/2015/04/25/index.html
+2015-04-30 - ANGLER EK DELIVERS ALPHA CRYPT RANSOMWARE,2015-04-30,http://malware-traffic-analysis.net/2015/04/30/index.html
+2015-05-05 - ANGLER EK FROM 94.242.255.53,2015-05-05,http://malware-traffic-analysis.net/2015/05/05/index.html
+2015-05-06 - ANGLER EK FROM 94.242.255.59 DELIVERS ALPHA CRYPT RANSOMWARE,2015-05-06,http://malware-traffic-analysis.net/2015/05/06/index.html
+2015-05-06 - RIG EK CHANGED HOW IT SENDS THE MALWARE PAYLOAD,2015-05-06,http://malware-traffic-analysis.net/2015/05/06/index2.html
+2015-05-07 - ANGLER EK FROM 94.242.255.60 DELIVERS MORE RANSOMWARE,2015-05-07,http://malware-traffic-analysis.net/2015/05/07/index2.html
+2015-05-11 - MALSPAM CAMPAIGN - FAKE AMERICAN AIRLINES MESSAGES,2015-05-11,http://malware-traffic-analysis.net/2015/05/11/index.html
+2015-05-14 - ANGLER EK DELIVERS RANSOMWARE,2015-05-14,http://malware-traffic-analysis.net/2015/05/14/index.html
+2015-05-14 - ANGLER EK FROM 178.63.174.153 - SENDS BEDEP & NECURS,2015-05-14,http://malware-traffic-analysis.net/2015/05/15/index.html
+2015-05-14 - NUCLEAR EK FROM 109.234.37.12 - SENDS NECURS,2015-05-14,http://malware-traffic-analysis.net/2015/05/14/index3.html
+2015-05-14 - Nuclear EK DELIVERS RANSOMWARE,2015-05-14,http://malware-traffic-analysis.net/2015/05/14/index2.html
+2015-05-18 - ANGLER EK SENDS BEDEP,2015-05-18,http://malware-traffic-analysis.net/2015/05/18/index.html
+2015-05-22 - FIESTA EK FROM BIZCN ACTOR,2015-05-22,http://malware-traffic-analysis.net/2015/05/22/index.html
+2015-05-24 - NEUTRINO EK FROM 193.242.211.149,2015-04-24,http://malware-traffic-analysis.net/2015/04/24/index.html
+2015-05-25 - ANGLER EK DELIVERS RANSOMWARE,2015-05-25,http://malware-traffic-analysis.net/2015/05/25/index.html
+"2015-05-26 - ANGLER EK SENDS BEDEP, HOST INFECTED WITH CRYPTOWALL 3.0",2015-05-26,http://malware-traffic-analysis.net/2015/05/26/index.html
+2015-06-01 - ANGLER EK FROM 94.242.198.222 SENDS BEDEP AND NECURS,2015-06-01,http://www.malware-traffic-analysis.net/2015/06/01/index.html
+2015-06-05 - ANGLER EK FROM 209.133.200.228 SENDS BEDEP AND NECURS,2015-06-05,http://www.malware-traffic-analysis.net/2015/06/05/index.html
+2015-06-08 - ANGLER EK - MORE CHANGES IN TRAFFIC PATTERNS,2015-06-08,http://www.malware-traffic-analysis.net/2015/06/08/index.html
+"2015-06-09 - ANGLER EK - STILL ON A ""CRYPTOWALL RAMPAGE""",2015-06-09,http://www.malware-traffic-analysis.net/2015/06/09/index.html
+2015-06-12 - ANGLER EK SENDS CRYPTOWALL 3.0 (AGAIN),2015-06-12,http://www.malware-traffic-analysis.net/2015/06/12/index.html
+2015-06-12 - NUCLEAR EK FROM 108.61.178.68,2015-06-12,http://www.malware-traffic-analysis.net/2015/06/12/index2.html
+2015-06-15 - ANGLER EK FROM 46.4.235.3 SENDS BEDEP,2015-06-15,http://www.malware-traffic-analysis.net/2015/06/15/index.html
+2015-06-16 - ANGLER EK FROM 46.4.235.1 SENDS CRYPTOWALL 3.0,2015-06-16,http://www.malware-traffic-analysis.net/2015/06/16/index.html
+2015-06-17 - ANGLER EK FROM 213.133.111.21 SENDS CRYPTOWALL 3.0,2015-06-17,http://www.malware-traffic-analysis.net/2015/06/17/index.html
+2015-07-02 - FIESTA EK FROM 66.225.219.224 - JACKKWIZC.DDNSKING.COM,2015-07-02,http://www.malware-traffic-analysis.net/2015/07/02/index.html
+2015-07-03 - ANGLER EK SENDS CRYPTOWALL 3.0,2015-07-03,http://www.malware-traffic-analysis.net/2015/07/03/index.html
+2015-07-05 - ANGLER EK FROM 5.196.183.76 SENDS CRYPTOWALL 3.0,2015-07-05,http://www.malware-traffic-analysis.net/2015/07/05/index.html
+2015-07-05 - BIZCN GATE ACTOR USING NUCLEAR EK - TRAFFIC AND MALWARE,2015-07-05,http://www.malware-traffic-analysis.net/2015/07/05/index2.html
+2015-07-06 - ANGLER EK FROM 74.63.217.220 SENDS CRYPTOWALL 3.0,2015-07-06,http://www.malware-traffic-analysis.net/2015/07/06/index.html
+2015-07-07 - ANGLER EK TRAFFIC - 2 EXAMPLES,2015-07-07,http://www.malware-traffic-analysis.net/2015/07/07/index.html
+2015-07-07 - BIZCN GATE ACTOR NUCLEAR EK,2015-07-07,http://www.malware-traffic-analysis.net/2015/07/07/index2.html
+2015-07-08 - ANGLER EK SENDS CRYPTOWALL 3.0 - 2 EXAMPLES,2015-07-08,http://www.malware-traffic-analysis.net/2015/07/08/index.html
+2015-07-08 - BIZCN GATE ACTOR NUCLEAR EK ON 108.61.188.92,2015-07-08,http://www.malware-traffic-analysis.net/2015/07/08/index2.html
+2015-07-09 - ANGLER EK - 2 EXAMPLES (CRYPTOWALL 3.0 AND BEDEP),2015-07-09,http://www.malware-traffic-analysis.net/2015/07/09/index.html
+2015-07-09 - BIZCN GATE ACTOR NUCLEAR EK ON 104.238.187.29,2015-07-09,http://www.malware-traffic-analysis.net/2015/07/09/index2.html
+2015-07-10 - ANGLER EK FROM 176.9.245.142 SENDS CRYPTOWALL 3.0,2015-07-10,http://www.malware-traffic-analysis.net/2015/07/10/index2.html
+2015-07-10 - NEUTRINO EK - 3 EXAMPLES,2015-07-10,http://www.malware-traffic-analysis.net/2015/07/10/index.html
+2015-07-13 - ANGLER EK FROM 136.243.96.94 SENDS CRYPTOWALL 3.0,2015-07-13,http://www.malware-traffic-analysis.net/2015/07/13/index.html
+2015-07-13 - BIZCN GATE ACTOR NUCLEAR EK ON 185.92.220.196,2015-07-13,http://www.malware-traffic-analysis.net/2015/07/13/index2.html
+2015-07-14 - ANGLER EK - TWO EXAMPLES - BEDEP & CRYPTOWALL 3.0,2015-07-14,http://www.malware-traffic-analysis.net/2015/07/14/index.html
+2015-07-14 - BIZCN GATE ACTOR NUCLEAR EK ON 108.61.167.124,2015-07-14,http://www.malware-traffic-analysis.net/2015/07/14/index2.html
+2015-07-15 - ANGLER EK FROM 185.48.58.51 SENDS CRYPTOWALL 3.0,2015-07-15,http://www.malware-traffic-analysis.net/2015/07/15/index.html
+2015-07-15 - BIZCN GATE ACTOR NUCLEAR EK ON 104.207.131.131,2015-07-15,http://www.malware-traffic-analysis.net/2015/07/15/index2.html
+2015-07-16 - ANGLER EK FROM 206.190.134.188 SENDS CRYPTOWALL 3.0,2015-07-16,http://www.malware-traffic-analysis.net/2015/07/16/index.html
+2015-07-16 - ANGLER EK FROM 69.162.90.107 SENDS BEDEP,2015-07-16,http://www.malware-traffic-analysis.net/2015/07/17/index.html
+2015-07-16 - BIZCN GATE ACTOR NUCLEAR EK ON 216.170.114.126,2015-07-16,http://www.malware-traffic-analysis.net/2015/07/16/index2.html
+2015-07-16 - NEUTRINO EK FROM 82.211.30.153 PORT 31251,2015-07-16,http://www.malware-traffic-analysis.net/2015/07/16/index4.html
+2015-07-16 - RIG EK FROM 46.30.42.238,2015-07-16,http://www.malware-traffic-analysis.net/2015/07/16/index3.html
+2015-07-17 - BIZCN GATE ACTOR NUCLEAR EK ON 188.166.120.33 SENDS CRYPTOWALL 3.0,2015-07-17,http://www.malware-traffic-analysis.net/2015/07/17/index3.html
+2015-07-17 - MAGNITUDE EK FROM 188.42.244.146,2015-07-17,http://www.malware-traffic-analysis.net/2015/07/17/index2.html
+2015-07-20 - NUCLEAR EK SENDS TESLACRYPT 2.0,2015-07-20,http://www.malware-traffic-analysis.net/2015/07/20/index.html
+2015-07-22 - NUCLEAR EK CHANGES URL PATTERNS,2015-07-22,http://www.malware-traffic-analysis.net/2015/07/22/index.html
+2015-07-23 - ANGLER EK FROM 216.245.213.141 SENDS CRYPTOWALL 3.0,2015-07-23,http://www.malware-traffic-analysis.net/2015/07/23/index.html
+2015-07-27 - ANGLER EK FROM 69.162.116.253 SENDS CRYPTOWALL 3.0,2015-07-27,http://www.malware-traffic-analysis.net/2015/07/27/index.html
+2015-07-30 - ANGLER EK FROM 69.162.112.181 SENDS CRYPTOWALL 3.0,2015-07-31,http://www.malware-traffic-analysis.net/2015/07/31/index.html
+2015-07-30 - BIZCN GATE ACTOR NUCLEAR EK ON 46.101.18.39,2015-07-30,http://www.malware-traffic-analysis.net/2015/07/30/index.html
+2015-08-03 - RIG EK FROM 46.30.46.26,2015-08-03,http://www.malware-traffic-analysis.net/2015/08/03/index.html
+2015-08-06 - ADWIND MALSPAM EXAMPLES,2015-08-08,http://www.malware-traffic-analysis.net/2015/08/06/index.html
+2015-08-07 - RIG EK FROM 46.30.46.24 - ADD.ELLICOTTVILLEREALESTATE.COM,2015-08-07,http://www.malware-traffic-analysis.net/2015/08/07/index2.html
+2015-08-10 - ANGLER EK FROM 144.76.161.249 SENDS BEDEP,2015-08-10,http://www.malware-traffic-analysis.net/2015/08/10/index.html
+2015-08-12 - NUCLEAR EK FROM 188.166.1.98 - AABEWEDDBHUJKOGE.CF,2015-08-12,http://www.malware-traffic-analysis.net/2015/08/12/index.html
+2015-08-13 - ANGLER EK FROM 176.9.197.68 SENDS CRYPTOWALL 3.0,2015-08-13,http://www.malware-traffic-analysis.net/2015/08/13/index.html
+2015-08-14 - BIZCN GATE ACTOR NUCLEAR EK FROM 89.238.181.74 - FREE3DPRINT.CF,2015-08-14,http://www.malware-traffic-analysis.net/2015/08/14/index2.html
+2015-08-14 - NUCLEAR EK FROM 95.85.21.30 - BACUHYTGBNVEDHHKO.ML,2015-08-14,http://www.malware-traffic-analysis.net/2015/08/14/index.html
+2015-08-17 - ANGLER EK SENDS BEDEP FROM 94.23.170.230 - POVAZAN.SPACEDISCUSSIONS.COM,2015-08-17,http://www.malware-traffic-analysis.net/2015/08/17/index.html
+2015-08-17 - RIG EK FROM 94.142.139.186 - LIFE.MIRAGE-INC.COM,2015-08-17,http://www.malware-traffic-analysis.net/2015/08/17/index2.html
+2015-08-19 - BIZCN GATE ACTOR NUCLEAR EK FROM 31.214.157.20 - BLIZFONE.CF,2015-08-19,http://www.malware-traffic-analysis.net/2015/08/19/index.html
+2015-08-24 - ANGLER EK FROM 31.148.219.194 SENDS TESLACRYPT 2.0,2015-08-24,http://www.malware-traffic-analysis.net/2015/08/24/index2.html
+2015-08-24 - RIG EK FROM 94.142.140.222 - LOAD.LEDREQUIRED.COM,2015-08-24,http://www.malware-traffic-analysis.net/2015/08/24/index.html
+2015-08-26 - UPATRE/DYRE MALSPAM,2015-08-26,http://www.malware-traffic-analysis.net/2015/08/26/index.html
+2015-08-28 - BIZCN GATE ACTOR EXAMPLES,2015-08-28,http://www.malware-traffic-analysis.net/2015/08/28/index.html
+2015-09-02 - NEUTRINO EK FROM 46.108.156.181 SENDS TESLACRYPT 2.0,2015-09-02,http://www.malware-traffic-analysis.net/2015/09/02/index.html
+"2015-09-03 - ANGLER EK SENDS TESLACRYPT 2.0 ONE DAY, THEN CRYPTOWALL 3.0 THE NEXT",2015-09-03,http://www.malware-traffic-analysis.net/2015/09/03/index.html
+2015-09-04 - UPATRE/DYRE MALSPAM - SUBJ: SCANNED IMAGE FROM A XEROX WORKCENTRE,2015-09-04,http://www.malware-traffic-analysis.net/2015/09/04/index.html
+2015-09-08 - NEUTRINO EK FROM 46.108.156.190 SENDS CRYPTOWALL 3.0,2015-09-08,http://www.malware-traffic-analysis.net/2015/09/08/index.html
+2015-09-10 - ANGLER EK FROM 62.109.9.60,2015-09-10,http://www.malware-traffic-analysis.net/2015/09/10/index.html
+2015-09-11 - BIZCN GATE ACTOR NEUTRINO EK FROM 46.108.156.189 PORT 32393 - WOTPGA.ZUKONLINE.XYZ,2015-09-11,http://www.malware-traffic-analysis.net/2015/09/11/index.html
+2015-09-14 - ANGLER EK FROM 207.182.157.157 SENDS CRYPTOWALL 3.0,2015-09-14,http://www.malware-traffic-analysis.net/2015/09/14/index2.html
+2015-09-14 - BIZCN GATE ACTOR NEUTRINO EK FROM 46.108.156.189 PORT 35827 - KXHGOKBJQC.UOQBZFYXDCT.CF,2015-09-14,http://www.malware-traffic-analysis.net/2015/09/14/index.html
+2015-09-15 - ANGLER EK FROM 185.49.68.129 SENDS BEDEP,2015-09-15,http://www.malware-traffic-analysis.net/2015/09/15/index2.html
+2015-09-15 - NUCLEAR EK FROM 162.247.14.136 SENDS TESLACRYPT 2.0,2015-09-15,http://www.malware-traffic-analysis.net/2015/09/15/index.html
+2015-09-16 - NEUTRINO EK FROM 89.38.149.168 SENDS CRYPTOWALL 3.0,2015-09-16,http://www.malware-traffic-analysis.net/2015/09/16/index2.html
+2015-09-16 - NUCLEAR EK FROM 162.247.14.156 SENDS TESLACRYPT 2.0,2015-09-16,http://www.malware-traffic-analysis.net/2015/09/16/index.html
+2015-09-18 - NUCLEAR EK FROM 178.62.72.26 - OAACDERESFTU.TK,2015-09-18,http://www.malware-traffic-analysis.net/2015/09/18/index.html
+2015-09-21 - RIG EK FROM 46.30.43.111 - REH.HEALTZKART.ORG,2015-09-21,http://www.malware-traffic-analysis.net/2015/09/21/index.html
+2015-09-22 - NUCLEAR EK FROM 46.101.165.112 - BAGREWAKOKUGRE.ML,2015-09-22,http://www.malware-traffic-analysis.net/2015/09/22/index.html
+2015-09-23 - BARTALEX MALSPAM SENDS PONY AND VAWTRAK,2015-09-23,http://www.malware-traffic-analysis.net/2015/09/23/index2.html
+2015-09-29 - ANGLER EK FROM 85.25.102.2 SENDS CRYPTOWALL 3.0,2015-09-29,http://www.malware-traffic-analysis.net/2015/09/29/index2.html
+2015-09-29 - NUCLEAR EK FROM 162.247.14.204 - KOLENKOVOLODKI.CF,2015-09-29,http://www.malware-traffic-analysis.net/2015/09/29/index.html
+8x8 Script Leads to Infinity Drive-By,2014-04-06,http://www.kahusecurity.com/2014/8x8-script-leads-to-infinity-drive-by/
+A Peek Into the Lion's Den - The Magnitude [aka PopAds] Exploit Kit,2014-08-05,https://www.trustwave.com/Resources/SpiderLabs-Blog/A-Peek-Into-the-Lion-s-Den-%E2%80%93-The-Magnitude--aka-PopAds--Exploit-Kit/
+A fileless Ursnif doing some POS focused rec,2015-07-05,http://malware.dontneedcoffee.com/2015/07/a-fileless-ursnif-doing-some-pos.html
+Analysis of malicious advertisements on telegraaf.nl,2013-08-01,http://blog.fox-it.com/2013/08/01/analysis-of-malicious-advertisements-on-telegraaf-nl/
+Analyzing DotkaChef Exploit Pack,2013-12-19,http://www.kahusecurity.com/2013/analyzing-dotkachef-exploit-pack/
+"Angler ""April Fish""",2014-04-01,http://malware.dontneedcoffee.com/2014/04/angler-april-fish.html
+"Angler EK : now capable of ""fileless"" infection (memory malware)",2014-08-31,http://malware.dontneedcoffee.com/2014/08/angler-ek-now-capable-of-fileless.html
+Angler EK Exploiting Adobe Flash CVE-2015-0359 with CFG Bypass,2015-04-18,https://www.fireeye.com/blog/threat-research/2015/04/angler_ek_exploiting.html
+"Angler EK: More Obfuscation, Fake Extensions, and Other Nonsense",2015-06-05,https://blogs.cisco.com/security/talos/angler-update
+Angler Exploit Kit - New Variants,2015-02-03,https://blogs.cisco.com/security/talos/angler-variants
+Angler Exploit Kit Blasts Daily Mail Visitors Via Malvertising,2015-10-13,https://blog.malwarebytes.org/malvertising-2/2015/10/angler-exploit-kit-blasts-daily-mail-visitors-via-malvertising/
+Angler Exploit Kit Detected on High Profile Websites,2014-06-09,https://www.riskiq.com/blog/business/post/angler-exploit-kit-detected-on-high-profile-websites
+Angler Exploit Kit Featured in Mass Phishing Campaign,2014-07-03,http://www-admin.proofpoint.com/threatinsight/posts/angler-exploit-kit-featured-in-mass-phishing-campaign.php
+Another look at Niteris : post exploitation WMI and Fiddler checks,2015-05-12,http://malware.dontneedcoffee.com/2015/05/another-look-at-niteris-post.html
+Archie and Astrum: New Players in the Exploit Kit Market,2014-12-11,https://www.f-secure.com/weblog/archives/00002776.html
+Archie: Just another Exploit kit,2014-09-15,https://www.alienvault.com/open-threat-exchange/blog/archie-just-another-exploit-kit
+Bye Bye Flash EK ? (and Windigo group adapting),2014-07-10,http://malware.dontneedcoffee.com/2014/07/bye-bye-flash-ek-and-windigo-group.html
+CVE-2010-0188,2010-02-22,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2010-0188
+CVE-2011-2010,2011-12-13,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2011-2010
+CVE-2011-3402,2011-11-04,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2011-3402
+CVE-2011-3544,2011-10-19,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2011-3544
+CVE-2012-0507,2012-06-07,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2012-0507
+CVE-2012-1723,2012-06-16,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2012-1723
+CVE-2012-1889,2012-06-13,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2012-1889
+CVE-2012-3993,2012-10-10,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2012-3993
+CVE-2012-4681,2012-08-27,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2012-4681
+CVE-2012-5692,2012-10-31,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2012-5692
+CVE-2013-0025,2013-02-13,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-0025
+CVE-2013-0074,2013-03-12,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-0074
+CVE-2013-0322,2013-03-27,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-0322
+CVE-2013-0422,2013-01-10,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-0422
+CVE-2013-0634,2013-02-08,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-0634
+CVE-2013-1347,2013-05-05,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-1347
+CVE-2013-1493,2013-03-05,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-1493
+CVE-2013-1710,2013-08-06,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-1710
+CVE-2013-2423,2013-04-17,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-2423
+CVE-2013-2424,2013-04-17,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-2424
+CVE-2013-2460,2013-06-18,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-2460
+CVE-2013-2463,2013-06-18,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-2463
+CVE-2013-2465,2013-06-18,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-2465
+CVE-2013-2471,2013-06-18,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-2471
+CVE-2013-2551,2013-03-11,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-2551
+CVE-2013-2883,2013-07-31,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-2883
+CVE-2013-3896,2013-10-09,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-3896
+CVE-2013-3897,2013-10-09,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-3897
+CVE-2013-7149,2013-12-27,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-7149
+CVE-2013-7331,2014-02-26,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2013-7331
+CVE-2014-0322,2014-02-14,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2014-0322
+CVE-2014-0322 integrating Exploit Kits,2014-03-24,http://malware.dontneedcoffee.com/2014/03/cve-2014-0322-integrating-exploit-kits.html
+CVE-2014-0497,2014-02-05,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2014-0497
+CVE-2014-0502,2014-02-21,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2014-0502
+CVE-2014-0515,2014-04-29,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2014-0515
+CVE-2014-0515 (Flash 13.0.0.182 and earlier) integrating Exploit Kits,2014-06-07,http://malware.dontneedcoffee.com/2014/06/cve-2014-0515-flash-1300182-and-earlier.html
+CVE-2014-0556,2014-09-09,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2014-0556
+CVE-2014-0569,2014-10-15,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2014-0569
+CVE-2014-0569 (Flash Player) integrating Exploit Kit,2014-10-21,http://malware.dontneedcoffee.com/2014/10/cve-2014-0569.html
+CVE-2014-1776,2014-04-27,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2014-1776
+CVE-2014-6332,2014-11-11,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2014-6332
+CVE-2014-6332 (Internet Explorer) and Exploits Kits,2014-11-21,http://malware.dontneedcoffee.com/2014/11/cve-2014-6332.html
+CVE-2014-8439,2014-11-25,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2014-8439
+CVE-2014-8439 Vulnerability: Trend Micro Solutions Ahead of the Game,2014-11-28,http://blog.trendmicro.com/trendlabs-security-intelligence/cve-2014-8439-vulnerability-trend-micro-solutions-ahead-of-the-game/
+CVE-2014-8440,2014-11-11,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2014-8440
+CVE-2014-8440 (Flash up to 15.0.0.189) and Exploit Kits,2014-11-20,http://malware.dontneedcoffee.com/2014/11/cve-2014-8440.html
+CVE-2015-0097,2015-03-11,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-0097
+CVE-2015-0097 Exploited in the Wild,2015-07-30,https://www.fireeye.com/blog/threat-research/2015/07/cve-2015-0097_exploi.html
+CVE-2015-0310,2015-01-23,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-0310
+CVE-2015-0311,2015-01-23,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-0311
+CVE-2015-0313,2015-01-23,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-0313
+CVE-2015-0313 (Flash up to 16.0.0.296) and Exploit Kits,2015-02-11,http://malware.dontneedcoffee.com/2015/02/cve-2015-0313-flash-up-to-1600296-and.html
+CVE-2015-0336,2015-03-13,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-0336
+CVE-2015-0336 (Flash up to 16.0.0.305) and Exploit Kits,2015-03-20,http://malware.dontneedcoffee.com/2015/03/cve-2015-0336-flash-up-to-1600305-and.html
+CVE-2015-0336 Nuclear EK,2015-03-19,https://www.fireeye.com/blog/threat-research/2015/03/cve-2015-0336_nuclea.html
+CVE-2015-0359,2015-04-14,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-0359
+CVE-2015-1671,2015-05-13,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-1671
+CVE-2015-2419,2015-07-14,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-2419
+CVE-2015-2419 (Internet Explorer) and Exploits Kits,2015-08-10,http://malware.dontneedcoffee.com/2015/08/cve-2014-2419-internet-explorer-and.html
+CVE-2015-2419 - Internet Explorer Double-Free in Angler EK,2015-08-10,https://www.fireeye.com/blog/threat-research/2015/08/cve-2015-2419_inte.html
+CVE-2015-2444,2015-08-14,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-2444
+CVE-2015-2545,2015-09-08,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-2545
+CVE-2015-3090,2015-05-13,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-3090
+CVE-2015-3090 (Flash up to 17.0.0.169) and Exploit Kits,2015-05-26,http://malware.dontneedcoffee.com/2015/05/cve-2015-3090-flash-up-to-1700169-and.html
+CVE-2015-3104,2015-06-09,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-3104
+CVE-2015-3104/3105 (Flash up to 17.0.0.188) and Exploit Kits,2015-06-16,http://malware.dontneedcoffee.com/2015/06/cve-2015-3105-flash-up-to-1700188-and.html
+CVE-2015-3105,2015-06-09,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-3105
+CVE-2015-3113,2015-06-23,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-3113
+CVE-2015-3113 (Flash up to 18.0.0.160) and Exploit Kits,2015-06-27,http://malware.dontneedcoffee.com/2015/06/cve-2015-3113-flash-up-to-1800160-and.html
+CVE-2015-5119,2015-07-08,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-5119
+CVE-2015-5122,2015-07-14,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-5122
+CVE-2015-5122 (HackingTeam 0d two - Flash up to 18.0.0.203) and Exploit Kits,2015-07-11,http://malware.dontneedcoffee.com/2015/07/cve-2015-5122-hackingteam-0d-two-flash.html
+CVE-2015-5123,2015-07-14,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-5123
+CVE-2015-5560,2015-08-13,http://www.cvedetails.com/cve-details.php?t=1&cve_id=CVE-2015-5560
+CVE-2015-5560 (Flash up to 18.0.0.209) and Exploit Kits,2015-08-31,http://malware.dontneedcoffee.com/2015/08/cve-2015-flash-player-up-to-1800209-and.html
+Call me Null Hole maybe ?,2014-11-23,http://malware.dontneedcoffee.com/2014/11/call-me-null-hole-maybe.html
+Communizm : the Ramdo/Redyms Affiliate,2014-04-12,http://malware.dontneedcoffee.com/2014/04/communizm-ramdoredyms-affiliate.html
+Convincing YouTube look-alike fires RIG Exploit Kit,2014-08-25,https://blog.malwarebytes.org/exploits-2/2014/08/do-not-publish-yet-convincing-youtube-look-alike-fires-rig-exploit-kit/
+"CottonCastle EK: ""I hate to break this to you, but this isn't gonna be an open casket.""",2014-06,http://malwageddon.blogspot.com/2014/06/cottoncastle-ek-i-hate-to-break-this-to.html
+Cutwail Spam Swapping Blackhole for Magnitude Exploit Kit,2013-10-18,http://www.secureworks.com/resources/blog/cutwail-spam-swapping-blackhole-for-magnitude-exploit-kit/
+Dailymotion Compromised to Send Users to Exploit Kit,2014-07-03,http://www.symantec.com/connect/blogs/dailymotion-compromised-send-users-exploit-kit
+Deobfuscating Magnitude Exploit Kit,2013-11-11,http://www.kahusecurity.com/2013/deobfuscating-magnitude-exploit-kit/
+Deobfuscation tips: SweetOrange EK landing page,2014-09,http://malwageddon.blogspot.com/2014/09/deobfuscation-tips-sweetorange-ek.html
+Dotkachef Exploit Kit Usage Likely Increasing,2013-12-26,http://www-admin.proofpoint.com/threatinsight/posts/dotkachef-exploit-kit-usage-likely-increasing.php
+Dyre emerges as main financial Trojan threat,2015-06-23,http://www.symantec.com/connect/blogs/dyre-emerges-main-financial-trojan-threat
+Exploit Kit Roundup: Best of Obfuscation Techniques,2014-05-07,https://www.trustwave.com/Resources/SpiderLabs-Blog/Exploit-Kit-Roundup--Best-of-Obfuscation-Techniques/
+Exposing the Flash 'EITest' malware campaign,2014-10-29,https://blog.malwarebytes.org/exploits-2/2014/10/exposing-the-flash-eitest-malware-campaign/
+Facebook Scam Leads to Nuclear Exploit Kit,2014-07-22,http://www.symantec.com/connect/blogs/facebook-scam-leads-nuclear-exploit-kit
+Fast look at Sundown EK,2015-06-08,http://malware.dontneedcoffee.com/2015/06/fast-look-at-sundown-ek.html
+Fiesta Where?,2014-07-16,http://www-admin.proofpoint.com/threatinsight/posts/the-fiesta-exploit-kit.php
+Fiesta exploit kit does the splits,2014-07-30,https://blog.malwarebytes.org/exploits-2/2014/07/fiesta-exploit-kit-does-the-splits/
+Fileless Infections from Exploit Kit: An Overview,2014-09-26,https://blog.malwarebytes.org/exploits-2/2014/09/fileless-infections-from-exploit-kit-an-overview/
+"Flash EK skips landing page, goes Flash all the way",2014-09-22,https://blog.malwarebytes.org/exploits-2/2014/09/flash-ek-skips-landing-page-goes-flash-all-the-way/
+Happy Nucl(y)ear - Evolution of an Exploit Kit,2015-01-15,http://community.websense.com/blogs/securitylabs/archive/2015/01/15/evolution-of-an-exploit-kit-nuclear-pack.aspx
+Interactive exploit kit redirection technique,2014-06-20,http://www.welivesecurity.com/2014/06/20/interactive-exploit-kit-redirection-technique/
+Kovter AdFraud is updating Flash Player (and Internet Explorer),2015-07-02,http://malware.dontneedcoffee.com/2015/07/kovter-adfraud-is-updating-flash-for-you.html
+Kovter malware learns from Poweliks with persistent fileless registry update,2015-09-24,http://www.symantec.com/connect/blogs/kovter-malware-learns-poweliks-persistent-fileless-registry-update
+Large Malvertising Campaign Goes (Almost) Undetected,2015-09-14,https://blog.malwarebytes.org/malvertising-2/2015/09/large-malvertising-campaign-goes-almost-undetected/
+Large scale malicious spam campaign exploiting Boston bombing,2013-04-18,http://blog.spiderlabs.com/2013/04/large-scale-malicious-spam-campaign-exploiting-boston-bombing.html
+LightsOut EK Targets Energy Sector,2014-03-12,http://research.zscaler.com/2014/03/lightsout-ek-targets-energy-sector.html
+"LightsOut EK: ""By the way... How much is the fish!?""",2014-09,http://malwageddon.blogspot.com/2013/09/unknown-ek-by-way-how-much-is-fish.html
+Magnitude EK : Pop Pop !,2013-10-25,http://malware.dontneedcoffee.com/2013/10/Magnitude.html
+Magnitude Exploit Kit Backend Infrastructure Insight - Part I,2014-08-07,https://www.trustwave.com/Resources/SpiderLabs-Blog/Magnitude-Exploit-Kit-Backend-Infrastructure-Insight---Part-I/
+Magnitude Exploit Kit Backend Infrastructure Insight - Part II,2014-11-24,https://www.trustwave.com/Resources/SpiderLabs-Blog/Magnitude-Exploit-Kit-Backend-Infrastructure-Insight---Part-II/
+Magnitude Exploit Kit Backend Infrastructure Insight - Part III,2014-12-08,https://www.trustwave.com/Resources/SpiderLabs-Blog/Magnitude-Exploit-Kit-Backend-Infrastructure-Insight---Part-III/
+Malvertising Attack Hits Realtor.com Visitors,2015-09-22,https://blog.malwarebytes.org/malvertising-2/2015/09/malvertising-attack-hits-realtor-com-visitors/
+"Malvertising campaign on popular site leads to Silverlight exploit, Zeus Trojan",2014-05-22,https://blog.malwarebytes.org/exploits-2/2014/05/malvertising-campaign-on-popular-site-leads-to-silverlight-exploit-zeus-trojan/
+"Malvertising hits ""The Times of Israel"" and ""The Jerusalem Post"", redirects to Nuclear Exploit Kit",2014-09-18,https://blog.malwarebytes.org/malvertising-2/2014/09/malvertising-hits-the-times-of-israel-newspaper/
+"Malware Campaign that Says ""Whatsapp"" Goes Nuclear",2013-11-07,http://www-admin.proofpoint.com/threatinsight/posts/malware-campaign-that-says-whatsapp-goes-nuclear.php
+Meet CritXPack (Previously Vintage Pack),2012-11-12,http://malware.dontneedcoffee.com/2012/11/meet-critxpack-previously-vintage-pack.html
+Meet Niteris EK (formerly known as CottonCastle),2014-06-09,http://malware.dontneedcoffee.com/2014/06/cottoncastle.html
+New Dridex Botnet Drives Massive Surge in Malicious Attachments,2015-12-23,http://www-admin.proofpoint.com/threatinsight/posts/new-dridex-botnet-drives-massive-surge-in-malicious-attachments.php
+New Kronos Banking Malware Advertised On Russian Forums,2014-07-15,https://threatpost.com/new-kronos-banking-malware-advertised-on-russian-forums/107210/
+New Neutrino EK Campaign Drops Andromeda,2015-10-18,https://blog.malwarebytes.org/exploits-2/2015/10/new-neutrino-ek-campaign-drops-andromeda/
+"Nuclear Exploit Kit Evolves, Includes Silverlight Exploit",2014-09-23,http://blog.trendmicro.com/trendlabs-security-intelligence/nuclear-exploit-kit-evolves-includes-silverlight-exploit/
+Nuclear Exploit Kit and Flash CVE-2014-0515,2014-09-05,http://research.zscaler.com/2014/09/nuclear-exploit-kit-and-flash-cve-2014.html
+Nuclear exploit kit - complete infection cycle,2014-09-18,http://research.zscaler.com/2014/09/nuclear-exploit-kit-complete-infection.html
+Nuclear pack (exploit kit) landing pane details,2014-08-23,http://malforsec.blogspot.com/2014/08/nuclear-pack-explit-kit-landing-pane.html
+Obfuscated Flash Files Make Their Mark in Exploit Kits,2014-11-24,http://blog.trendmicro.com/trendlabs-security-intelligence/malicious-flash-files-gain-the-upper-hand-with-new-obfuscation-techniques/
+Official Website of Popular Science Compromised,2014-10-28,http://community.websense.com/blogs/securitylabs/archive/2014/10/28/official-website-of-popular-science-is-compromised.aspx
+Out-of-Band Flash Player Update for CVE-2014-8439,2014-11-25,https://www.f-secure.com/weblog/archives/00002768.html
+Pirates of the Internetz: The curse of the waterhole,2014-09-16,http://labs.bromium.com/2014/09/16/pirates-of-the-internetz-the-curse-of-the-waterhole/
+Popular Japanese Publisher's Website led to Gongda Exploit Kit,2014-01-14,http://www.symantec.com/connect/blogs/popular-japanese-publisher-s-website-led-gongda-exploit-kit
+RIG Exploit Kit Strikes Oil,2014-07-05,https://blogs.cisco.com/security/rig-exploit-kit-strikes-oil
+RIG Exploit Pack,2014-05-12,http://www.kahusecurity.com/2014/rig-exploit-pack/
+Reversing RIG EK's Flash File,2014-05-23,http://www.kahusecurity.com/2014/reversing-rig-eks-flash-file/
+Rig Exploit Kit Used in Recent Website Compromise,2014-07-02,http://www.symantec.com/connect/blogs/rig-exploit-kit-used-recent-website-compromise
+Say Hello to Astrum EK,2014-09-14,http://malware.dontneedcoffee.com/2014/09/astrum-ek.html
+SevPod : The Waledac (Spambot.Kelihos) Affiliate by Severa,2014-05-10,http://malware.dontneedcoffee.com/2014/05/sevpod-waledac-spambotkelihos-affiliate.html
+"Shining some light on the ""Unknown"" Exploit Kit",2014-08-29,https://blog.malwarebytes.org/exploits-2/2014/08/shining-some-light-on-the-unknown-exploit-kit/
+Silence Exploit Kit new brows.....oh wait !,2013-06-01,http://malware.dontneedcoffee.com/2013/06/silent-exploit-kit-new-browsoh-wait.html?q=CVE-
+Sneaky Redirect to Exploit Kit,2014-01-21,http://www.kahusecurity.com/2014/sneaky-redirect-to-exploit-kit/
+"SocialBlade.com compromised, starts redirection chain to Nuclear Pack exploit kit",2014-07-29,https://blog.malwarebytes.org/exploits-2/2014/07/socialblade-com-compromised-starts-redirection-chain-to-nuclear-pack-exploit-kit/
+Spin.com visitors served malware instead of music,2014-11-04,http://www.symantec.com/connect/blogs/spincom-visitors-served-malware-instead-music
+Streaming Media Site Hit by Malvertising,2014-10-28,http://www-admin.proofpoint.com/threatinsight/posts/streaming-media-site-hit-by-malvertising.php
+Streaming Netflix on your PC? Beware of Silverlight exploit,2013-11-15,https://blog.malwarebytes.org/exploits-2/2013/11/streaming-netflix-on-your-pc-beware-of-silverlight-exploit/
+Sub-domain on SourceForge redirects to Flash Pack Exploit Kit,2014-08-25,https://blog.malwarebytes.org/exploits-2/2014/08/sub-domain-on-sourceforge-redirects-to-flash-pack-exploit-kit/
+Sundown exploit kit adds Internet Explorer exploit before any other kit,2015-08-24,http://www.symantec.com/connect/blogs/sundown-exploit-kit-adds-internet-explorer-exploit-any-other-kit
+The Resurrection of RedKit,2014-01-07,http://www.kahusecurity.com/2014/the-resurrection-of-redkit/
+The official website of AskMen is compromised to serve malicious code,2014-06-23,http://community.websense.com/blogs/securitylabs/archive/2014/06/23/the-official-website-of-askmen-is-compromised-to-serve-malicious-code.aspx
+Third Adobe Flash zero-day exploit (CVE-2015-5123) leaked from Hacking Team cache,2015-07-13,http://www.symantec.com/connect/blogs/third-adobe-flash-zero-day-exploit-cve-2015-5123-leaked-hacking-team-cache
+Threat Spotlight: Angler Lurking in the Domain Shadows,2015-03-03,https://blogs.cisco.com/security/talos/angler-domain-shadowing
+Tiny Banker Trojan targets customers of major banks worldwide,2014-09-15,http://blog.avast.com/2014/09/15/tiny-banker-trojan-targets-customers-of-major-banks-worldwide/
+Tracking Moving Targets: Exploit Kits and CVEs,2014-12-10,https://www.recordedfuture.com/tracking-exploit-kits/
+Unpatched Vulnerability (0day) in Flash Player is being exploited by Angler EK,2015-01-21,http://malware.dontneedcoffee.com/2015/01/unpatched-vulnerability-0day-in-flash.html
+"Website Add-on Targets Japanese Users, Leads To Exploit Kit",2014-08-21,http://blog.trendmicro.com/trendlabs-security-intelligence/website-add-on-targets-japanese-users-leads-to-exploit-kit/
+Yet another case of malvertising on The Pirate Bay,2014-09-27,https://blog.malwarebytes.org/exploits-2/2014/09/malvertising-on-the-pirate-bay/
+"YouTube Ads Lead To Exploit Kits, Hit US Victims",2014-10-14,http://blog.trendmicro.com/trendlabs-security-intelligence/youtube-ads-lead-to-exploit-kits-hit-us-victims/
+"Zuponcic: ""Is it a bird?... Is it a plane?... No, it's another... wait, what!?"" --- Part 2",2014-08,http://malwageddon.blogspot.com/2013/08/zuponcic-is-it-bird-is-it-plane-no-its.html
+Two for One: Microsoft Office Encapsulated PostScript and Windows Privilege Escalation Zero-Days,2015-09-08,https://www.fireeye.com/blog/threat-research/2015/09/attack_exploitingmi.html
